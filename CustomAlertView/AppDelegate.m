@@ -2,12 +2,11 @@
 //  AppDelegate.m
 //  CustomAlertView
 //
-//  Created by 张丁豪 on 16/9/18.
-//  Copyright © 2016年 张丁豪. All rights reserved.
+//  Created by CalvinCheung on 2017/1/3.
+//  Copyright © 2017年 CalvinCheung. All rights reserved.
 //
 
 #import "AppDelegate.h"
-#import "RootViewController.h"
 
 @interface AppDelegate ()
 
@@ -18,10 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    RootViewController *root = [[RootViewController alloc]init];
-    UINavigationController *nav = [[UINavigationController alloc]initWithRootViewController:root];
-    self.window.rootViewController = nav;
-    
     return YES;
 }
 

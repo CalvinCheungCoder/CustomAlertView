@@ -2,8 +2,8 @@
 //  main.m
 //  CustomAlertView
 //
-//  Created by 张丁豪 on 16/9/18.
-//  Copyright © 2016年 张丁豪. All rights reserved.
+//  Created by CalvinCheung on 2017/1/3.
+//  Copyright © 2017年 CalvinCheung. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>

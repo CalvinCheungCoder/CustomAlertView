@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "922C813C1D8E831F00C523B6"
+               BlueprintIdentifier = "3E5F18121E1B54FE0069ED27"
                BuildableName = "CustomAlertView.app"
                BlueprintName = "CustomAlertView"
                ReferencedContainer = "container:CustomAlertView.xcodeproj">
@@ -28,31 +28,11 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "922C81551D8E831F00C523B6"
-               BuildableName = "CustomAlertViewTests.xctest"
-               BlueprintName = "CustomAlertViewTests"
-               ReferencedContainer = "container:CustomAlertView.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
-         <TestableReference
-            skipped = "NO">
-            <BuildableReference
-               BuildableIdentifier = "primary"
-               BlueprintIdentifier = "922C81601D8E831F00C523B6"
-               BuildableName = "CustomAlertViewUITests.xctest"
-               BlueprintName = "CustomAlertViewUITests"
-               ReferencedContainer = "container:CustomAlertView.xcodeproj">
-            </BuildableReference>
-         </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "922C813C1D8E831F00C523B6"
+            BlueprintIdentifier = "3E5F18121E1B54FE0069ED27"
             BuildableName = "CustomAlertView.app"
             BlueprintName = "CustomAlertView"
             ReferencedContainer = "container:CustomAlertView.xcodeproj">
@@ -75,7 +55,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "922C813C1D8E831F00C523B6"
+            BlueprintIdentifier = "3E5F18121E1B54FE0069ED27"
             BuildableName = "CustomAlertView.app"
             BlueprintName = "CustomAlertView"
             ReferencedContainer = "container:CustomAlertView.xcodeproj">
@@ -94,7 +74,7 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "922C813C1D8E831F00C523B6"
+            BlueprintIdentifier = "3E5F18121E1B54FE0069ED27"
             BuildableName = "CustomAlertView.app"
             BlueprintName = "CustomAlertView"
             ReferencedContainer = "container:CustomAlertView.xcodeproj">
