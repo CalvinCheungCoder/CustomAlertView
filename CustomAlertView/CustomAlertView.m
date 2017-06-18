@@ -546,6 +546,8 @@ buttonType ButtonTitle:(NSString *)buttonTitle Click:(clickHandle)click ButtonTy
     self.center = CGPointMake(ScreenWidth / 2, ScreenHeight / 2);
     self.backgroundColor = [UIColor whiteColor];
     
+    
+    
     UILabel *titleLabel = [[UILabel alloc] init];
     if (self.title.length > 0) {
         titleLabel.frame = CGRectMake(CustomMargin, 10, CustomAlertViewWidth - CustomMargin * 2, CustomAlertViewTitleLabelHeight-10);
